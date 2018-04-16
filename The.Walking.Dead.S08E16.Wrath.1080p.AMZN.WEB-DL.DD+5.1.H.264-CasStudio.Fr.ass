@@ -1,0 +1,524 @@
+[Script Info]
+Title: <untitled>
+Original Script: <unknown>
+ScriptType: v4.00+
+PlayResX: 384
+PlayResY: 288
+PlayDepth: 0
+Timer: 100.0
+WrapStyle: 0
+
+[v4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic,  Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Arial,20,&H00FFFFFF,&H00000000,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,0,2,15,15,15,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.29,0:00:09.80,Default,,0000,0000,0000,,{\i1}Je me souviens.{\i0}
+Dialogue: 0,0:01:33.92,0:01:35.92,Default,,0000,0000,0000,,J'ai vu qu'elle était réveillée.
+Dialogue: 0,0:01:47.94,0:01:49.40,Default,,0000,0000,0000,,Comment c'est arrivé ?
+Dialogue: 0,0:01:57.78,0:01:59.24,Default,,0000,0000,0000,,Raconte-moi.
+Dialogue: 0,0:02:08.71,0:02:10.50,Default,,0000,0000,0000,,Ma mère est morte.
+Dialogue: 0,0:02:11.92,0:02:13.46,Default,,0000,0000,0000,,Elle s'est fait mordre.
+Dialogue: 0,0:02:16.59,0:02:18.63,Default,,0000,0000,0000,,J'ai dû la regarder mourir.
+Dialogue: 0,0:02:20.30,0:02:21.89,Default,,0000,0000,0000,,Il y a pas longtemps.
+Dialogue: 0,0:02:24.60,0:02:27.27,Default,,0000,0000,0000,,Elle croyait que les gens...
+Dialogue: 0,0:02:28.06,0:02:29.35,Default,,0000,0000,0000,,que leur âme
+Dialogue: 0,0:02:30.44,0:02:33.11,Default,,0000,0000,0000,,était emprisonnée\Ndans le corps des monstres.
+Dialogue: 0,0:02:34.90,0:02:39.74,Default,,0000,0000,0000,,Et que tuer les morts permettait\Nà l'âme d'accéder à la vie d'après.
+Dialogue: 0,0:02:43.95,0:02:47.50,Default,,0000,0000,0000,,Carl était en train\Nde m'amener à votre groupe.
+Dialogue: 0,0:02:48.04,0:02:50.92,Default,,0000,0000,0000,,Je lui ai parlé\Nde la croyance de ma mère.
+Dialogue: 0,0:02:53.08,0:02:55.59,Default,,0000,0000,0000,,On est tombés sur quelques morts.
+Dialogue: 0,0:02:57.26,0:02:59.38,Default,,0000,0000,0000,,Il voulait lui rendre hommage.
+Dialogue: 0,0:03:00.55,0:03:04.76,Default,,0000,0000,0000,,Il voulait me prouver\Nque je pouvais lui faire confiance.
+Dialogue: 0,0:03:10.39,0:03:12.19,Default,,0000,0000,0000,,Voilà comment c'est arrivé.
+Dialogue: 0,0:03:15.69,0:03:19.15,Default,,0000,0000,0000,,Il est mort en rendant hommage\Nà une inconnue.
+Dialogue: 0,0:03:25.16,0:03:26.53,Default,,0000,0000,0000,,Mais c'était risqué.
+Dialogue: 0,0:03:29.41,0:03:32.12,Default,,0000,0000,0000,,Et je n'y ai pas pensé avant.
+Dialogue: 0,0:03:34.38,0:03:35.67,Default,,0000,0000,0000,,J'aurais dû.
+Dialogue: 0,0:03:41.76,0:03:44.89,Default,,0000,0000,0000,,La seule chose qui reste\Ndes gens qu'on perd,
+Dialogue: 0,0:03:46.10,0:03:47.76,Default,,0000,0000,0000,,qui leur était propre,
+Dialogue: 0,0:03:50.14,0:03:51.81,Default,,0000,0000,0000,,ce sont leurs idées.
+Dialogue: 0,0:04:00.99,0:04:02.03,Default,,0000,0000,0000,,Merci.
+Dialogue: 0,0:04:06.45,0:04:09.29,Default,,0000,0000,0000,,- On va les battre aujourd'hui.\N- Oui.
+Dialogue: 0,0:04:09.99,0:04:11.16,Default,,0000,0000,0000,,Après ça,
+Dialogue: 0,0:04:12.16,0:04:13.75,Default,,0000,0000,0000,,tu reviens au Royaume ?
+Dialogue: 0,0:04:15.04,0:04:16.58,Default,,0000,0000,0000,,Je me sauverai plus.
+Dialogue: 0,0:04:17.96,0:04:19.00,Default,,0000,0000,0000,,Peut-être.
+Dialogue: 0,0:04:21.92,0:04:23.26,Default,,0000,0000,0000,,Ça va, chef ?
+Dialogue: 0,0:04:25.13,0:04:27.22,Default,,0000,0000,0000,,Si c'est notre dernier matin,
+Dialogue: 0,0:04:27.80,0:04:29.89,Default,,0000,0000,0000,,ce sera une bien belle matinée.
+Dialogue: 0,0:04:30.47,0:04:32.39,Default,,0000,0000,0000,,Mon cul, que c'est le dernier.
+Dialogue: 0,0:04:32.56,0:04:36.31,Default,,0000,0000,0000,,Pour certains parmi nous, peut-être.\NJe l'accepte.
+Dialogue: 0,0:04:37.23,0:04:38.77,Default,,0000,0000,0000,,Mon cul, j'accepte rien.
+Dialogue: 0,0:04:38.94,0:04:41.03,Default,,0000,0000,0000,,Ce n'est pas de la résignation.
+Dialogue: 0,0:04:41.40,0:04:43.07,Default,,0000,0000,0000,,Ni du pessimisme.
+Dialogue: 0,0:04:43.69,0:04:44.86,Default,,0000,0000,0000,,Pas du tout.
+Dialogue: 0,0:04:46.20,0:04:48.70,Default,,0000,0000,0000,,Mais pour justifier\Ntoutes nos pertes,
+Dialogue: 0,0:04:49.24,0:04:51.33,Default,,0000,0000,0000,,il faut risquer de tout perdre.
+Dialogue: 0,0:04:51.99,0:04:54.16,Default,,0000,0000,0000,,- Mon cul, on perdra rien.\N- Jerry !
+Dialogue: 0,0:05:02.63,0:05:05.26,Default,,0000,0000,0000,,On reste sur ce chemin,\Nprès des arbres.
+Dialogue: 0,0:05:05.42,0:05:07.97,Default,,0000,0000,0000,,On ira plus vite,\Nen surveillant la route.
+Dialogue: 0,0:05:08.14,0:05:10.14,Default,,0000,0000,0000,,S'ils rusent, on le verra.
+Dialogue: 0,0:05:10.39,0:05:13.02,Default,,0000,0000,0000,,On peut croire ce qu'a dit Gregory ?
+Dialogue: 0,0:05:13.64,0:05:15.14,Default,,0000,0000,0000,,Je l'ai enfermé à l'intérieur.
+Dialogue: 0,0:05:15.94,0:05:19.81,Default,,0000,0000,0000,,Il savait que c'était ça\Nqui l'attendait, en revenant ici.
+Dialogue: 0,0:05:20.40,0:05:23.82,Default,,0000,0000,0000,,Il croit qu'en lui,\Net il croit pas assez en les Sauveurs
+Dialogue: 0,0:05:23.99,0:05:26.57,Default,,0000,0000,0000,,pour nous piéger,\Nen espérant s'en tirer.
+Dialogue: 0,0:05:26.90,0:05:30.28,Default,,0000,0000,0000,,Ou alors, Dwight lui a rien dit\Net nous enfume.
+Dialogue: 0,0:05:49.01,0:05:50.01,Default,,0000,0000,0000,,Morgan !
+Dialogue: 0,0:05:51.14,0:05:52.51,Default,,0000,0000,0000,,Qu'est-ce qu'il y a ?
+Dialogue: 0,0:05:52.68,0:05:53.93,Default,,0000,0000,0000,,Ils sont partis.
+Dialogue: 0,0:05:54.56,0:05:56.14,Default,,0000,0000,0000,,Ils font quelque chose.
+Dialogue: 0,0:06:28.67,0:06:30.09,Default,,0000,0000,0000,,Ils étaient...
+Dialogue: 0,0:06:33.22,0:06:35.47,Default,,0000,0000,0000,,Ils étaient partis. Lui...
+Dialogue: 0,0:06:35.89,0:06:37.31,Default,,0000,0000,0000,,Ils entraient.
+Dialogue: 0,0:06:39.10,0:06:41.44,Default,,0000,0000,0000,,J'ai proposé d'écarter les rôdeurs.
+Dialogue: 0,0:06:41.69,0:06:44.86,Default,,0000,0000,0000,,On les a éloignés pour plus tard,\Nquand on sortira.
+Dialogue: 0,0:06:45.48,0:06:46.53,Default,,0000,0000,0000,,C'est vrai.
+Dialogue: 0,0:06:52.78,0:06:56.24,Default,,0000,0000,0000,,Préparez-vous tous.\NLe 1er groupe part dans 20 minutes.
+Dialogue: 0,0:06:57.37,0:06:59.21,Default,,0000,0000,0000,,Quand "on" sortira ?
+Dialogue: 0,0:07:00.29,0:07:02.50,Default,,0000,0000,0000,,Toi et les tiens, vous venez pas.
+Dialogue: 0,0:07:03.25,0:07:04.79,Default,,0000,0000,0000,,Vous pouvez rester ici.
+Dialogue: 0,0:07:05.88,0:07:07.71,Default,,0000,0000,0000,,Mais vous êtes pas des nôtres.
+Dialogue: 0,0:07:09.13,0:07:10.93,Default,,0000,0000,0000,,Au moins, c'est clair.
+Dialogue: 0,0:07:14.51,0:07:17.22,Default,,0000,0000,0000,,- Tu devrais pas venir.\N- Il le faut.
+Dialogue: 0,0:07:18.85,0:07:21.02,Default,,0000,0000,0000,,- Tu as fait beaucoup.\N- Il le faut.
+Dialogue: 0,0:07:21.27,0:07:22.56,Default,,0000,0000,0000,,- Morgan...\N- Rick.
+Dialogue: 0,0:07:26.19,0:07:28.99,Default,,0000,0000,0000,,Il le faut. Il faut que je...
+Dialogue: 0,0:07:31.78,0:07:33.03,Default,,0000,0000,0000,,Pas pour moi.
+Dialogue: 0,0:07:34.07,0:07:36.78,Default,,0000,0000,0000,,Pour les autres.\NJe vais les maintenir en vie.
+Dialogue: 0,0:07:37.29,0:07:39.37,Default,,0000,0000,0000,,Je vais empêcher que Henry...
+Dialogue: 0,0:07:49.13,0:07:51.17,Default,,0000,0000,0000,,On est pires qu'avant.
+Dialogue: 0,0:07:52.59,0:07:54.18,Default,,0000,0000,0000,,Toi et moi.
+Dialogue: 0,0:07:56.76,0:07:59.52,Default,,0000,0000,0000,,Tu as donné ta parole\Nà ces types, au bar.
+Dialogue: 0,0:07:59.68,0:08:02.14,Default,,0000,0000,0000,,Il fallait en passer par là, mais...
+Dialogue: 0,0:08:06.36,0:08:08.11,Default,,0000,0000,0000,,tu le faisais pas avant.
+Dialogue: 0,0:08:08.82,0:08:11.24,Default,,0000,0000,0000,,C'était mal, pour toi.
+Dialogue: 0,0:08:12.07,0:08:14.32,Default,,0000,0000,0000,,On a franchi la ligne parce que...
+Dialogue: 0,0:08:15.49,0:08:16.66,Default,,0000,0000,0000,,parce que...
+Dialogue: 0,0:08:18.78,0:08:20.70,Default,,0000,0000,0000,,on a tout perdu, toi et moi.
+Dialogue: 0,0:08:21.79,0:08:23.71,Default,,0000,0000,0000,,Tout ce qu'il y avait de bien.
+Dialogue: 0,0:08:26.54,0:08:30.59,Default,,0000,0000,0000,,Pourquoi ne pas se consacrer\Nà maintenir les autres en vie ?
+Dialogue: 0,0:08:31.55,0:08:34.80,Default,,0000,0000,0000,,Parce qu'on n'a pas tout perdu.
+Dialogue: 0,0:08:35.30,0:08:36.93,Default,,0000,0000,0000,,- Pas encore.\N- Si.
+Dialogue: 0,0:08:37.85,0:08:39.14,Default,,0000,0000,0000,,Irrémédiablement.
+Dialogue: 0,0:08:42.98,0:08:44.77,Default,,0000,0000,0000,,Alors finissons-en.
+Dialogue: 0,0:09:59.09,0:09:59.97,Default,,0000,0000,0000,,{\pub}C'est moche, D.
+Dialogue: 0,0:10:03.56,0:10:04.85,Default,,0000,0000,0000,,Même si tu avais
+Dialogue: 0,0:10:05.10,0:10:07.85,Default,,0000,0000,0000,,la moitié de la gueule\Nen fromage fondu,
+Dialogue: 0,0:10:08.02,0:10:10.86,Default,,0000,0000,0000,,{\pos(250,260)}tu étais respecté de ces gens,\Nautrefois.
+Dialogue: 0,0:10:11.27,0:10:12.57,Default,,0000,0000,0000,,Mais maintenant,
+Dialogue: 0,0:10:13.52,0:10:15.99,Default,,0000,0000,0000,,{\pos(192,230)}tu te retrouves comme un con.
+Dialogue: 0,0:10:21.32,0:10:22.62,Default,,0000,0000,0000,,Embarquez-le.
+Dialogue: 0,0:10:31.71,0:10:33.79,Default,,0000,0000,0000,,{\pos(250,260)}Voilà\Nmon fabricant de balles.
+Dialogue: 0,0:10:36.76,0:10:40.05,Default,,0000,0000,0000,,{\pos(192,230)}Assistant au taquet.\NCommande préparée dare-dare.
+Dialogue: 0,0:10:40.22,0:10:41.93,Default,,0000,0000,0000,,{\pos(250,260)}Chaque munition vérifiée
+Dialogue: 0,0:10:42.18,0:10:44.22,Default,,0000,0000,0000,,{\pos(130,260)}personnellement par bibi.
+Dialogue: 0,0:10:44.39,0:10:46.64,Default,,0000,0000,0000,,{\pos(140,260)}Pas de dodo, que du boulot.
+Dialogue: 0,0:10:47.39,0:10:48.39,Default,,0000,0000,0000,,C'est fait.
+Dialogue: 0,0:10:49.02,0:10:50.65,Default,,0000,0000,0000,,Fais un petit test.
+Dialogue: 0,0:11:12.92,0:11:15.25,Default,,0000,0000,0000,,Regina t'a détaillé le plan ?
+Dialogue: 0,0:11:15.42,0:11:17.21,Default,,0000,0000,0000,,Voilà pourquoi je veux venir.
+Dialogue: 0,0:11:18.01,0:11:20.97,Default,,0000,0000,0000,,{\pos(110,260)}Vu le terrain, le timing,\Nle temps d'amorçage,
+Dialogue: 0,0:11:21.13,0:11:23.68,Default,,0000,0000,0000,,{\pos(110,260)}mieux vaut tenter\Nl'échec et mat en un coup.
+Dialogue: 0,0:11:23.85,0:11:26.18,Default,,0000,0000,0000,,{\pos(110,260)}Une ligne de tir\Nqui minimise la pagaille
+Dialogue: 0,0:11:26.35,0:11:29.35,Default,,0000,0000,0000,,{\pos(110,260)}et emballez, c'est pesé\Nen un temps record.
+Dialogue: 0,0:11:30.06,0:11:32.85,Default,,0000,0000,0000,,Tu as vraiment envie\Nd'assister à ça ?
+Dialogue: 0,0:11:34.73,0:11:36.57,Default,,0000,0000,0000,,{\pos(140,260)}Pas envie, besoin.
+Dialogue: 0,0:11:37.48,0:11:38.57,Default,,0000,0000,0000,,Ben dis donc !
+Dialogue: 0,0:11:40.86,0:11:43.03,Default,,0000,0000,0000,,On charge et on se met en route.
+Dialogue: 0,0:11:43.82,0:11:45.32,Default,,0000,0000,0000,,Lance, Duke.
+Dialogue: 0,0:11:46.58,0:11:49.87,Default,,0000,0000,0000,,Boylan Road. Ceci indique\Noù je serai en cas de pépin.
+Dialogue: 0,0:11:50.04,0:11:52.00,Default,,0000,0000,0000,,C'est bon, on l'a en tête.
+Dialogue: 0,0:11:52.17,0:11:53.83,Default,,0000,0000,0000,,J'en doute pas.
+Dialogue: 0,0:11:56.29,0:11:57.46,Default,,0000,0000,0000,,Abrutis.
+Dialogue: 0,0:12:02.01,0:12:05.43,Default,,0000,0000,0000,,{\pos(192,230)}Tu nous accompagnes, Gaby ?\NLa route est jolie.
+Dialogue: 0,0:12:05.59,0:12:08.14,Default,,0000,0000,0000,,{\pos(192,230)}J'ai des trucs à confesser.
+Dialogue: 0,0:12:15.40,0:12:17.94,Default,,0000,0000,0000,,Pardonnez-moi, mon père, j'ai péché.
+Dialogue: 0,0:12:18.11,0:12:19.44,Default,,0000,0000,0000,,Y a des chances.
+Dialogue: 0,0:12:21.11,0:12:22.69,Default,,0000,0000,0000,,Ça devrait pas tarder.
+Dialogue: 0,0:12:23.07,0:12:25.53,Default,,0000,0000,0000,,Ces mecs sont partis là-bas
+Dialogue: 0,0:12:25.78,0:12:28.12,Default,,0000,0000,0000,,pour bloquer la route avec des morts,
+Dialogue: 0,0:12:28.28,0:12:30.91,Default,,0000,0000,0000,,sans savoir qu'ils vont les rejoindre
+Dialogue: 0,0:12:31.16,0:12:32.25,Default,,0000,0000,0000,,d'ici peu,
+Dialogue: 0,0:12:32.58,0:12:35.87,Default,,0000,0000,0000,,{\pos(192,230)}parce que Rick\Net sa bande de bourriques
+Dialogue: 0,0:12:36.04,0:12:37.71,Default,,0000,0000,0000,,{\pos(280,260)}vont tous les buter.
+Dialogue: 0,0:12:41.05,0:12:44.17,Default,,0000,0000,0000,,Ça me fait pas plaisir\Nde sacrifier les miens.
+Dialogue: 0,0:12:44.34,0:12:45.68,Default,,0000,0000,0000,,Tu le sais, non ?
+Dialogue: 0,0:12:46.09,0:12:50.10,Default,,0000,0000,0000,,Ces mecs sont arrivés avec Simon.\NCertains parmi nous
+Dialogue: 0,0:12:50.35,0:12:52.93,Default,,0000,0000,0000,,{\pos(250,260)}doivent y passer,\Nautant que ce soit eux.
+Dialogue: 0,0:13:07.20,0:13:08.95,Default,,0000,0000,0000,,Je ne comprends toujours pas.
+Dialogue: 0,0:13:09.12,0:13:13.50,Default,,0000,0000,0000,,{\pos(192,230)}Ricky a reçu des infos\Net croit me prendre par surprise.
+Dialogue: 0,0:13:13.66,0:13:16.75,Default,,0000,0000,0000,,Mais vu la fiabilité douteuse\Nde sa source,
+Dialogue: 0,0:13:16.92,0:13:20.25,Default,,0000,0000,0000,,à sa place,\Nje partirais en reconnaissance.
+Dialogue: 0,0:13:20.42,0:13:24.67,Default,,0000,0000,0000,,En tuant les jeunes, Rick va croire\Nqu'il connaît notre vrai plan,
+Dialogue: 0,0:13:24.84,0:13:26.63,Default,,0000,0000,0000,,ma vraie position.
+Dialogue: 0,0:13:26.80,0:13:28.22,Default,,0000,0000,0000,,Il viendra me trouver.
+Dialogue: 0,0:13:28.39,0:13:30.85,Default,,0000,0000,0000,,Mais c'est ça, le piège.
+Dialogue: 0,0:13:31.01,0:13:33.60,Default,,0000,0000,0000,,Et c'est comme ça qu'on les aura.
+Dialogue: 0,0:13:34.47,0:13:36.85,Default,,0000,0000,0000,,Ils verront ma position sur une carte
+Dialogue: 0,0:13:37.02,0:13:38.40,Default,,0000,0000,0000,,et ils y croiront.
+Dialogue: 0,0:13:38.56,0:13:41.69,Default,,0000,0000,0000,,{\pos(120,260)}Parce qu'il auront tué\Nces pauvres cons.
+Dialogue: 0,0:13:42.86,0:13:43.86,Default,,0000,0000,0000,,Je me rends !
+Dialogue: 0,0:13:44.23,0:13:45.32,Default,,0000,0000,0000,,J'arrête !
+Dialogue: 0,0:13:58.17,0:14:00.88,Default,,0000,0000,0000,,Mec ! C'était ouf !
+Dialogue: 0,0:14:02.50,0:14:04.63,Default,,0000,0000,0000,,Quand même, putain...
+Dialogue: 0,0:14:13.05,0:14:14.26,Default,,0000,0000,0000,,Tu meurs pas, toi ?
+Dialogue: 0,0:14:15.35,0:14:17.73,Default,,0000,0000,0000,,Je te jure, tu devrais essayer.
+Dialogue: 0,0:14:21.73,0:14:22.90,Default,,0000,0000,0000,,Franchement...
+Dialogue: 0,0:14:27.49,0:14:31.66,Default,,0000,0000,0000,,me dis pas que tu penses t'en tirer\Nen tuant tout le monde ?
+Dialogue: 0,0:14:33.91,0:14:34.91,Default,,0000,0000,0000,,Je peux te dire
+Dialogue: 0,0:14:36.91,0:14:38.50,Default,,0000,0000,0000,,que t'y arriveras pas.
+Dialogue: 0,0:14:41.92,0:14:42.92,Default,,0000,0000,0000,,Morgan ?
+Dialogue: 0,0:14:44.38,0:14:45.63,Default,,0000,0000,0000,,Tu es avec nous ?
+Dialogue: 0,0:14:49.55,0:14:51.64,Default,,0000,0000,0000,,Du nouveau, sur l'un des leurs.
+Dialogue: 0,0:14:53.09,0:14:54.26,Default,,0000,0000,0000,,C'est quoi ?
+Dialogue: 0,0:14:54.55,0:14:56.47,Default,,0000,0000,0000,,Une liste et une autre carte.
+Dialogue: 0,0:14:57.52,0:14:59.43,Default,,0000,0000,0000,,D'autres éléments.
+Dialogue: 0,0:15:00.44,0:15:03.44,Default,,0000,0000,0000,,Un bataillon de Sauveurs\Nsur la route du vieux moulin.
+Dialogue: 0,0:15:03.61,0:15:04.90,Default,,0000,0000,0000,,Negan y sera.
+Dialogue: 0,0:15:05.23,0:15:08.07,Default,,0000,0000,0000,,Chopons-le\Navant qu'ils voient le carnage ici.
+Dialogue: 0,0:15:08.61,0:15:09.61,Default,,0000,0000,0000,,Maggie.
+Dialogue: 0,0:15:10.11,0:15:11.11,Default,,0000,0000,0000,,{\i1}Je suis là.{\i0}
+Dialogue: 0,0:15:11.95,0:15:13.11,Default,,0000,0000,0000,,C'est le moment.
+Dialogue: 0,0:15:14.16,0:15:15.74,Default,,0000,0000,0000,,C'était bien un piège.
+Dialogue: 0,0:15:16.12,0:15:17.79,Default,,0000,0000,0000,,Changement de plan.
+Dialogue: 0,0:15:19.75,0:15:22.42,Default,,0000,0000,0000,,C'est ça, ta confession ?
+Dialogue: 0,0:15:22.58,0:15:24.71,Default,,0000,0000,0000,,Tu vas tuer tout le monde ?
+Dialogue: 0,0:15:26.34,0:15:29.97,Default,,0000,0000,0000,,La dernière fois,\Ntu n'avais pas l'air de le vouloir.
+Dialogue: 0,0:15:32.47,0:15:33.84,Default,,0000,0000,0000,,Que je le veuille,
+Dialogue: 0,0:15:34.09,0:15:36.68,Default,,0000,0000,0000,,Gaby, ça a jamais été la question.
+Dialogue: 0,0:15:57.58,0:15:59.04,Default,,0000,0000,0000,,{\pub}Il a sauté en marche !
+Dialogue: 0,0:15:59.49,0:16:02.04,Default,,0000,0000,0000,,Allez-y mollo !\NIl voit que dalle.
+Dialogue: 0,0:16:25.35,0:16:27.44,Default,,0000,0000,0000,,Eugene, je dois les prévenir.
+Dialogue: 0,0:16:27.61,0:16:30.53,Default,,0000,0000,0000,,Ferme ta bouche\Nou j'utilise une balle maison
+Dialogue: 0,0:16:30.69,0:16:34.40,Default,,0000,0000,0000,,pour te trouer la boîte crânienne\Nsur-le-champ, pigé ?
+Dialogue: 0,0:16:35.82,0:16:36.95,Default,,0000,0000,0000,,Tu piges ?
+Dialogue: 0,0:16:40.70,0:16:41.70,Default,,0000,0000,0000,,Oui.
+Dialogue: 0,0:16:44.92,0:16:46.08,Default,,0000,0000,0000,,Regarde-toi.
+Dialogue: 0,0:16:47.21,0:16:49.50,Default,,0000,0000,0000,,Où est ta foi au moment critique ?
+Dialogue: 0,0:16:51.13,0:16:53.47,Default,,0000,0000,0000,,C'est le moment ou jamais.
+Dialogue: 0,0:16:56.76,0:16:58.22,Default,,0000,0000,0000,,Excuse-moi, Eugene.
+Dialogue: 0,0:16:58.76,0:17:02.43,Default,,0000,0000,0000,,J'aimerais bien me garder\NGabounet pour moi.
+Dialogue: 0,0:17:07.31,0:17:10.90,Default,,0000,0000,0000,,Tu m'as dit\Nque tu voulais pas mourir en vain.
+Dialogue: 0,0:17:13.28,0:17:16.03,Default,,0000,0000,0000,,On a pas toujours ce qu'on veut.
+Dialogue: 0,0:17:26.71,0:17:28.54,Default,,0000,0000,0000,,Fous-le dans la bagnole.
+Dialogue: 0,0:17:34.09,0:17:36.01,Default,,0000,0000,0000,,Pour mettre ces gens hors de danger,
+Dialogue: 0,0:17:36.26,0:17:38.72,Default,,0000,0000,0000,,tu penses avoir à en tuer d'autres ?
+Dialogue: 0,0:17:39.97,0:17:42.14,Default,,0000,0000,0000,,Du coup, tu te mets en danger.
+Dialogue: 0,0:17:42.51,0:17:46.27,Default,,0000,0000,0000,,Ce qui met en danger\Nceux à qui tu veux éviter le danger.
+Dialogue: 0,0:17:47.39,0:17:48.73,Default,,0000,0000,0000,,C'est insoluble.
+Dialogue: 0,0:17:49.77,0:17:50.98,Default,,0000,0000,0000,,Ou pas.
+Dialogue: 0,0:17:52.61,0:17:55.36,Default,,0000,0000,0000,,Tu peux neutraliser sans tuer.
+Dialogue: 0,0:17:56.49,0:17:58.95,Default,,0000,0000,0000,,Moi, tu as failli me neutraliser.
+Dialogue: 0,0:18:01.16,0:18:02.99,Default,,0000,0000,0000,,Je te propose une chose.
+Dialogue: 0,0:18:03.91,0:18:05.20,Default,,0000,0000,0000,,À l'essai.
+Dialogue: 0,0:18:08.33,0:18:09.96,Default,,0000,0000,0000,,Ce côté pour les morts,
+Dialogue: 0,0:18:10.79,0:18:12.46,Default,,0000,0000,0000,,celui-là pour les vivants.
+Dialogue: 0,0:18:13.30,0:18:15.01,Default,,0000,0000,0000,,Et tout s'arrangera.
+Dialogue: 0,0:18:19.43,0:18:20.55,Default,,0000,0000,0000,,Jésus...
+Dialogue: 0,0:18:21.34,0:18:23.18,Default,,0000,0000,0000,,Je commence à bien l'aimer.
+Dialogue: 0,0:18:30.73,0:18:31.77,Default,,0000,0000,0000,,Je rêve !
+Dialogue: 0,0:18:33.23,0:18:34.52,Default,,0000,0000,0000,,La vache !
+Dialogue: 0,0:18:34.94,0:18:36.78,Default,,0000,0000,0000,,Vous en avez déjà vu autant ?
+Dialogue: 0,0:18:40.03,0:18:41.66,Default,,0000,0000,0000,,Les choses changent.
+Dialogue: 0,0:18:42.99,0:18:44.24,Default,,0000,0000,0000,,Allons-y.
+Dialogue: 0,0:18:45.12,0:18:48.21,Default,,0000,0000,0000,,- C'est encore loin ?\N- Non, en contrebas.
+Dialogue: 0,0:18:48.66,0:18:49.96,Default,,0000,0000,0000,,De l'autre côté.
+Dialogue: 0,0:19:05.01,0:19:06.77,Default,,0000,0000,0000,,Les Sauveurs !
+Dialogue: 0,0:19:41.22,0:19:43.97,Default,,0000,0000,0000,,{\i1}Merde alors, Rick ! T'as vu ?{\i0}
+Dialogue: 0,0:19:44.43,0:19:45.39,Default,,0000,0000,0000,,{\i1}Encore niqué,{\i0}
+Dialogue: 0,0:19:45.64,0:19:47.22,Default,,0000,0000,0000,,{\i1}et bien profond.{\i0}
+Dialogue: 0,0:19:58.36,0:20:00.57,Default,,0000,0000,0000,,{\pub}{\i1}J'ai feinté ta feinte{\i0}
+Dialogue: 0,0:20:00.82,0:20:02.82,Default,,0000,0000,0000,,{\i1}avec une feinte de chez feinte.{\i0}
+Dialogue: 0,0:20:04.24,0:20:06.58,Default,,0000,0000,0000,,Aie le courage de te montrer !
+Dialogue: 0,0:20:07.20,0:20:10.16,Default,,0000,0000,0000,,{\i1}Mais je suis partout, Rick !{\i0}
+Dialogue: 0,0:20:10.33,0:20:12.21,Default,,0000,0000,0000,,{\i1}J'ai d'autres porte-voix,{\i0}
+Dialogue: 0,0:20:12.46,0:20:13.71,Default,,0000,0000,0000,,d'autres walkies.
+Dialogue: 0,0:20:14.62,0:20:18.21,Default,,0000,0000,0000,,Choisis par où tu veux fuir,\Npour voir si tu t'en sors.
+Dialogue: 0,0:20:18.38,0:20:20.46,Default,,0000,0000,0000,,Ce sera plus rigolo pour nous.
+Dialogue: 0,0:20:21.80,0:20:23.34,Default,,0000,0000,0000,,Et devine quoi d'autre ?
+Dialogue: 0,0:20:24.30,0:20:27.35,Default,,0000,0000,0000,,{\i1}Je t'ai amené\Nde vieilles connaissances.{\i0}
+Dialogue: 0,0:20:28.64,0:20:31.22,Default,,0000,0000,0000,,{\i1}Tu te rappelles\Nton vieux pote Eugene ?{\i0}
+Dialogue: 0,0:20:32.23,0:20:35.90,Default,,0000,0000,0000,,C'est grâce à lui\Nqu'on est ici aujourd'hui.
+Dialogue: 0,0:20:36.52,0:20:39.40,Default,,0000,0000,0000,,Ça vaut aussi pour Dwightounet.
+Dialogue: 0,0:20:40.61,0:20:44.11,Default,,0000,0000,0000,,{\i1}Lui, il vous a baisés\Nsans faire exprès.{\i0}
+Dialogue: 0,0:20:44.28,0:20:46.45,Default,,0000,0000,0000,,{\i1}Non, lui, c'est simplement{\i0}
+Dialogue: 0,0:20:46.70,0:20:49.24,Default,,0000,0000,0000,,{\i1}un merdeux sans couilles et benêt.{\i0}
+Dialogue: 0,0:20:49.49,0:20:52.25,Default,,0000,0000,0000,,Il a gagné le droit de venir ici
+Dialogue: 0,0:20:52.66,0:20:56.83,Default,,0000,0000,0000,,et de vous regarder mourir,\Nen s'arrangeant avec sa conscience.
+Dialogue: 0,0:20:58.17,0:20:59.54,Default,,0000,0000,0000,,Gabriel...
+Dialogue: 0,0:21:01.34,0:21:03.22,Default,,0000,0000,0000,,Il doit sauter aussi.
+Dialogue: 0,0:21:03.51,0:21:06.89,Default,,0000,0000,0000,,On fait le grand ménage,\Naujourd'hui, Rick.
+Dialogue: 0,0:21:08.14,0:21:10.93,Default,,0000,0000,0000,,Et enfin, il y a toi.
+Dialogue: 0,0:21:12.10,0:21:14.52,Default,,0000,0000,0000,,{\i1}On était pas obligés de se battre.{\i0}
+Dialogue: 0,0:21:14.77,0:21:17.27,Default,,0000,0000,0000,,Il te suffisait\Nd'accepter la situation.
+Dialogue: 0,0:21:21.07,0:21:22.44,Default,,0000,0000,0000,,Et voilà.
+Dialogue: 0,0:21:23.40,0:21:25.70,Default,,0000,0000,0000,,Félicitations, Rick.
+Dialogue: 0,0:21:37.96,0:21:38.71,Default,,0000,0000,0000,,{\i1}Trois !{\i0}
+Dialogue: 0,0:21:44.71,0:21:45.97,Default,,0000,0000,0000,,Deux !
+Dialogue: 0,0:21:56.89,0:21:57.98,Default,,0000,0000,0000,,{\i1}Un !{\i0}
+Dialogue: 0,0:22:13.58,0:22:14.70,Default,,0000,0000,0000,,Maintenant !
+Dialogue: 0,0:22:23.67,0:22:24.50,Default,,0000,0000,0000,,Eugene !
+Dialogue: 0,0:22:40.81,0:22:41.90,Default,,0000,0000,0000,,Il s'enfuit !
+Dialogue: 0,0:23:03.63,0:23:05.17,Default,,0000,0000,0000,,Gregory est déjà sorti ?
+Dialogue: 0,0:23:05.34,0:23:07.51,Default,,0000,0000,0000,,On l'a laissé, tant pis pour lui.
+Dialogue: 0,0:23:07.67,0:23:10.26,Default,,0000,0000,0000,,Allez au rendez-vous.\NLes autres y seront.
+Dialogue: 0,0:23:10.43,0:23:11.30,Default,,0000,0000,0000,,Attendez !
+Dialogue: 0,0:23:11.47,0:23:13.85,Default,,0000,0000,0000,,- Tu vas où ?\N- Je vais les retenir.
+Dialogue: 0,0:23:14.51,0:23:15.56,Default,,0000,0000,0000,,Vas-y !
+Dialogue: 0,0:23:15.72,0:23:16.97,Default,,0000,0000,0000,,Toute seule ?
+Dialogue: 0,0:23:18.23,0:23:21.69,Default,,0000,0000,0000,,Ils vont entendre le bébé.\NOn l'entend à 500 bornes.
+Dialogue: 0,0:23:21.94,0:23:23.98,Default,,0000,0000,0000,,Je te laisse pas y aller seule.
+Dialogue: 0,0:23:24.23,0:23:26.94,Default,,0000,0000,0000,,- Moi, te donner un flingue ?\N- Je reste.
+Dialogue: 0,0:23:28.53,0:23:29.65,Default,,0000,0000,0000,,Qui est avec moi ?
+Dialogue: 0,0:23:30.82,0:23:31.82,Default,,0000,0000,0000,,Je suis avec elle.
+Dialogue: 0,0:23:33.07,0:23:34.87,Default,,0000,0000,0000,,Même si elle est pas avec nous.
+Dialogue: 0,0:23:40.16,0:23:41.08,Default,,0000,0000,0000,,C'est lui !
+Dialogue: 0,0:23:41.75,0:23:42.71,Default,,0000,0000,0000,,Chopez-le !
+Dialogue: 0,0:24:00.06,0:24:01.10,Default,,0000,0000,0000,,Morgan !
+Dialogue: 0,0:24:07.19,0:24:09.53,Default,,0000,0000,0000,,Morgan ! Tu n'es pas obligé.
+Dialogue: 0,0:24:15.32,0:24:17.03,Default,,0000,0000,0000,,Mettons un peu d'ordre.
+Dialogue: 0,0:24:28.38,0:24:29.63,Default,,0000,0000,0000,,Encore une seconde.
+Dialogue: 0,0:25:05.92,0:25:07.17,Default,,0000,0000,0000,,Ne tirez pas.
+Dialogue: 0,0:25:08.13,0:25:09.21,Default,,0000,0000,0000,,S'il vous plaît.
+Dialogue: 0,0:25:13.30,0:25:15.47,Default,,0000,0000,0000,,On se rend, c'est fini.
+Dialogue: 0,0:26:17.74,0:26:19.41,Default,,0000,0000,0000,,{\pub}Je voulais te dire...
+Dialogue: 0,0:26:20.16,0:26:22.08,Default,,0000,0000,0000,,Am stram gram,
+Dialogue: 0,0:26:22.45,0:26:24.12,Default,,0000,0000,0000,,c'était des conneries.
+Dialogue: 0,0:26:25.58,0:26:27.16,Default,,0000,0000,0000,,J'ai fait un choix.
+Dialogue: 0,0:26:28.17,0:26:28.87,Default,,0000,0000,0000,,Je voulais pas
+Dialogue: 0,0:26:29.12,0:26:31.33,Default,,0000,0000,0000,,tuer un père devant son fils.
+Dialogue: 0,0:26:31.50,0:26:34.63,Default,,0000,0000,0000,,Mais en fait,\Nc'est ça que j'aurais dû faire.
+Dialogue: 0,0:26:35.17,0:26:38.05,Default,,0000,0000,0000,,Grâce à ça,\Nil serait peut-être pas mort.
+Dialogue: 0,0:26:47.18,0:26:48.48,Default,,0000,0000,0000,,Tu es battu.
+Dialogue: 0,0:26:49.52,0:26:51.27,Default,,0000,0000,0000,,Tes hommes sont à terre.
+Dialogue: 0,0:26:52.61,0:26:54.19,Default,,0000,0000,0000,,Je m'en sortirai.
+Dialogue: 0,0:26:54.65,0:26:56.19,Default,,0000,0000,0000,,Comme toujours.
+Dialogue: 0,0:26:59.20,0:27:01.20,Default,,0000,0000,0000,,Il y a plus que nous, Rick.
+Dialogue: 0,0:27:02.45,0:27:03.62,Default,,0000,0000,0000,,Et toi,
+Dialogue: 0,0:27:04.20,0:27:06.08,Default,,0000,0000,0000,,tu as un pied dans la tombe.
+Dialogue: 0,0:27:06.41,0:27:08.12,Default,,0000,0000,0000,,Je suis plus costaud,
+Dialogue: 0,0:27:08.50,0:27:10.21,Default,,0000,0000,0000,,je suis meilleur.
+Dialogue: 0,0:27:10.67,0:27:13.21,Default,,0000,0000,0000,,- Et j'ai une batte.\N- On peut avoir
+Dialogue: 0,0:27:13.84,0:27:15.09,Default,,0000,0000,0000,,un avenir.
+Dialogue: 0,0:27:16.05,0:27:17.84,Default,,0000,0000,0000,,Moi, j'en ai un.
+Dialogue: 0,0:27:18.67,0:27:22.55,Default,,0000,0000,0000,,Donne-moi dix secondes\Npour te dire ce qu'on peut faire.
+Dialogue: 0,0:27:23.26,0:27:24.68,Default,,0000,0000,0000,,- Non.\N- Dix secondes.
+Dialogue: 0,0:27:24.93,0:27:26.14,Default,,0000,0000,0000,,Pour Carl.
+Dialogue: 0,0:27:33.77,0:27:34.90,Default,,0000,0000,0000,,Dix...
+Dialogue: 0,0:27:37.32,0:27:38.32,Default,,0000,0000,0000,,neuf...
+Dialogue: 0,0:27:39.11,0:27:42.45,Default,,0000,0000,0000,,Carl a dit qu'on n'était\Nplus obligés de se battre.
+Dialogue: 0,0:27:42.91,0:27:45.03,Default,,0000,0000,0000,,Il avait tort. Huit...
+Dialogue: 0,0:27:47.45,0:27:48.79,Default,,0000,0000,0000,,Il avait raison.
+Dialogue: 0,0:28:12.94,0:28:14.69,Default,,0000,0000,0000,,T'as vu ce que t'as fait ?
+Dialogue: 0,0:28:15.81,0:28:19.40,Default,,0000,0000,0000,,Carl y connaissait rien.
+Dialogue: 0,0:29:25.13,0:29:26.30,Default,,0000,0000,0000,,Sauve-le.
+Dialogue: 0,0:29:29.97,0:29:31.43,Default,,0000,0000,0000,,- Non !\N- Maggie.
+Dialogue: 0,0:29:32.60,0:29:35.10,Default,,0000,0000,0000,,Non, il a pas le droit !
+Dialogue: 0,0:29:35.81,0:29:37.77,Default,,0000,0000,0000,,Il a tué Glenn !
+Dialogue: 0,0:29:38.27,0:29:39.48,Default,,0000,0000,0000,,Il le faut.
+Dialogue: 0,0:29:39.65,0:29:41.65,Default,,0000,0000,0000,,Il faut qu'on en finisse !
+Dialogue: 0,0:29:42.32,0:29:43.61,Default,,0000,0000,0000,,Rick !
+Dialogue: 0,0:29:45.61,0:29:47.57,Default,,0000,0000,0000,,On doit rendre justice !
+Dialogue: 0,0:29:47.74,0:29:49.03,Default,,0000,0000,0000,,On peut pas.
+Dialogue: 0,0:29:50.37,0:29:51.41,Default,,0000,0000,0000,,C'est fini.
+Dialogue: 0,0:29:52.70,0:29:54.50,Default,,0000,0000,0000,,C'est pas fini !
+Dialogue: 0,0:29:54.83,0:29:57.42,Default,,0000,0000,0000,,C'est pas fini\Ntant qu'il est pas mort !
+Dialogue: 0,0:29:57.87,0:30:00.54,Default,,0000,0000,0000,,C'est pas fini\Ntant qu'il est pas mort !
+Dialogue: 0,0:30:14.64,0:30:16.48,Default,,0000,0000,0000,,Avec ce qui s'est passé,
+Dialogue: 0,0:30:17.60,0:30:18.65,Default,,0000,0000,0000,,ce qu'on a perdu,
+Dialogue: 0,0:30:19.86,0:30:21.77,Default,,0000,0000,0000,,il faut qu'il y ait un après.
+Dialogue: 0,0:30:26.65,0:30:29.07,Default,,0000,0000,0000,,Vous pouvez baisser les mains.
+Dialogue: 0,0:30:31.74,0:30:33.54,Default,,0000,0000,0000,,On va tous rentrer.
+Dialogue: 0,0:30:37.33,0:30:38.83,Default,,0000,0000,0000,,Negan est en vie,
+Dialogue: 0,0:30:40.42,0:30:43.04,Default,,0000,0000,0000,,mais ses méthodes sont révolues.
+Dialogue: 0,0:30:45.34,0:30:50.01,Default,,0000,0000,0000,,Toute personne refusant cette idée\Npaiera le prix fort, croyez-moi.
+Dialogue: 0,0:30:52.30,0:30:55.39,Default,,0000,0000,0000,,Toute personne\Nvivant dans un esprit de paix,
+Dialogue: 0,0:30:55.56,0:30:57.10,Default,,0000,0000,0000,,de justice,
+Dialogue: 0,0:30:59.85,0:31:02.11,Default,,0000,0000,0000,,avec qui on peut trouver une entente,
+Dialogue: 0,0:31:05.32,0:31:08.74,Default,,0000,0000,0000,,ce monde lui revient de droit.
+Dialogue: 0,0:31:09.28,0:31:10.70,Default,,0000,0000,0000,,La vie, c'est nous.
+Dialogue: 0,0:31:11.32,0:31:13.87,Default,,0000,0000,0000,,Ça, c'est la mort.\NElle est à nos portes.
+Dialogue: 0,0:31:14.95,0:31:17.20,Default,,0000,0000,0000,,Sauf si on unit nos forces.
+Dialogue: 0,0:31:18.16,0:31:19.54,Default,,0000,0000,0000,,Rentrons.
+Dialogue: 0,0:31:21.67,0:31:23.50,Default,,0000,0000,0000,,Et mettons-nous au travail.
+Dialogue: 0,0:31:25.88,0:31:27.80,Default,,0000,0000,0000,,Pour un nouveau monde.
+Dialogue: 0,0:31:31.05,0:31:32.47,Default,,0000,0000,0000,,Tout ça...
+Dialogue: 0,0:31:34.55,0:31:36.64,Default,,0000,0000,0000,,c'est du passé.
+Dialogue: 0,0:31:39.31,0:31:41.52,Default,,0000,0000,0000,,Il faut qu'il y ait un après.
+Dialogue: 0,0:31:59.87,0:32:02.87,Default,,0000,0000,0000,,Pourquoi les armes ont foiré ?\NÇa vient de toi ?
+Dialogue: 0,0:32:04.13,0:32:05.29,Default,,0000,0000,0000,,En effet.
+Dialogue: 0,0:32:06.34,0:32:09.38,Default,,0000,0000,0000,,J'ai saboté une étape\Nde la fabrication,
+Dialogue: 0,0:32:09.55,0:32:12.47,Default,,0000,0000,0000,,à l'insu de mes collègues,\Ninspiré par Gabriel
+Dialogue: 0,0:32:12.72,0:32:14.18,Default,,0000,0000,0000,,et sa gaucherie délibérée.
+Dialogue: 0,0:32:14.93,0:32:18.81,Default,,0000,0000,0000,,Et par ce que tu m'as dit\Navant que je te vomisse dessus.
+Dialogue: 0,0:32:19.93,0:32:23.40,Default,,0000,0000,0000,,Donc j'ai provoqué un pschitt\Npour votre réussite.
+Dialogue: 0,0:32:36.87,0:32:38.29,Default,,0000,0000,0000,,Pour le vomi.
+Dialogue: 0,0:32:40.75,0:32:42.08,Default,,0000,0000,0000,,Je l'ai pas volé.
+Dialogue: 0,0:32:46.29,0:32:47.59,Default,,0000,0000,0000,,C'est pour Henry.
+Dialogue: 0,0:32:49.75,0:32:51.84,Default,,0000,0000,0000,,Dis-lui que ça ira pour moi.
+Dialogue: 0,0:32:53.88,0:32:55.05,Default,,0000,0000,0000,,Ça ira ?
+Dialogue: 0,0:32:56.80,0:32:58.35,Default,,0000,0000,0000,,Je vais faire en sorte.
+Dialogue: 0,0:33:00.81,0:33:02.56,Default,,0000,0000,0000,,Il faut que ça aille.
+Dialogue: 0,0:33:17.45,0:33:18.99,Default,,0000,0000,0000,,Ma miséricorde...
+Dialogue: 0,0:33:20.49,0:33:21.58,Default,,0000,0000,0000,,prime...
+Dialogue: 0,0:33:22.87,0:33:24.46,Default,,0000,0000,0000,,sur ma colère.
+Dialogue: 0,0:33:54.74,0:33:56.28,Default,,0000,0000,0000,,{\pub}Excuse-moi, Maggie.
+Dialogue: 0,0:33:58.45,0:34:01.70,Default,,0000,0000,0000,,Les autres retournent au Sanctuaire.
+Dialogue: 0,0:34:03.33,0:34:05.71,Default,,0000,0000,0000,,Pour repartir de zéro, je sais pas.
+Dialogue: 0,0:34:07.50,0:34:08.83,Default,,0000,0000,0000,,Mais moi,
+Dialogue: 0,0:34:10.38,0:34:12.34,Default,,0000,0000,0000,,ça a jamais été ma place.
+Dialogue: 0,0:34:14.26,0:34:16.38,Default,,0000,0000,0000,,J'ai commencé à lire le livre,
+Dialogue: 0,0:34:16.63,0:34:17.97,Default,,0000,0000,0000,,{\i1}Une clé pour l'avenir.{\i0}
+Dialogue: 0,0:34:20.43,0:34:21.93,Default,,0000,0000,0000,,Je peux construire.
+Dialogue: 0,0:34:22.10,0:34:25.77,Default,,0000,0000,0000,,Je peux concrétiser des projets\Npour ici, pour ces gens.
+Dialogue: 0,0:34:29.15,0:34:30.98,Default,,0000,0000,0000,,Je veux y consacrer ma vie.
+Dialogue: 0,0:34:33.78,0:34:37.61,Default,,0000,0000,0000,,Et sans exagérer,\Nc'est à toi que je dois la vie.
+Dialogue: 0,0:34:40.95,0:34:42.03,Default,,0000,0000,0000,,D'accord.
+Dialogue: 0,0:35:15.15,0:35:16.15,Default,,0000,0000,0000,,Salut.
+Dialogue: 0,0:35:16.90,0:35:18.24,Default,,0000,0000,0000,,Contente de te voir.
+Dialogue: 0,0:35:18.70,0:35:19.99,Default,,0000,0000,0000,,Contente d'être là.
+Dialogue: 0,0:35:20.28,0:35:21.45,Default,,0000,0000,0000,,Je crois.
+Dialogue: 0,0:35:21.70,0:35:23.62,Default,,0000,0000,0000,,Nous, on le sait.
+Dialogue: 0,0:35:29.50,0:35:30.71,Default,,0000,0000,0000,,C'est les vôtres ?
+Dialogue: 0,0:35:31.46,0:35:33.04,Default,,0000,0000,0000,,Oui, encore des vitres.
+Dialogue: 0,0:35:35.38,0:35:37.80,Default,,0000,0000,0000,,Et des bras pour les poser.
+Dialogue: 0,0:35:47.81,0:35:48.85,Default,,0000,0000,0000,,Descends.
+Dialogue: 0,0:36:15.54,0:36:17.38,Default,,0000,0000,0000,,Je sais pourquoi je suis là.
+Dialogue: 0,0:36:22.93,0:36:25.22,Default,,0000,0000,0000,,Je sais ce que j'ai fait à Denise.
+Dialogue: 0,0:36:27.93,0:36:29.10,Default,,0000,0000,0000,,À toi.
+Dialogue: 0,0:36:30.22,0:36:31.89,Default,,0000,0000,0000,,À d'autres.
+Dialogue: 0,0:36:34.40,0:36:36.15,Default,,0000,0000,0000,,Peu importe mes raisons.
+Dialogue: 0,0:36:39.23,0:36:41.36,Default,,0000,0000,0000,,Je savais que je devrais assumer.
+Dialogue: 0,0:36:42.32,0:36:44.70,Default,,0000,0000,0000,,Que je paierais.\NC'est normal.
+Dialogue: 0,0:36:47.95,0:36:49.08,Default,,0000,0000,0000,,Je suis prêt.
+Dialogue: 0,0:36:54.83,0:36:57.84,Default,,0000,0000,0000,,J'ai vu la chute de Negan,\Nça me suffit.
+Dialogue: 0,0:37:01.38,0:37:02.59,Default,,0000,0000,0000,,Et moi...
+Dialogue: 0,0:37:04.88,0:37:06.55,Default,,0000,0000,0000,,je suis qu'une merde.
+Dialogue: 0,0:37:10.64,0:37:13.18,Default,,0000,0000,0000,,On peut pas revenir en arrière.
+Dialogue: 0,0:37:27.99,0:37:29.58,Default,,0000,0000,0000,,Je regrette.
+Dialogue: 0,0:37:30.41,0:37:32.37,Default,,0000,0000,0000,,Je regrette tellement !
+Dialogue: 0,0:37:33.95,0:37:35.12,Default,,0000,0000,0000,,Je t'en prie !
+Dialogue: 0,0:37:37.96,0:37:39.13,Default,,0000,0000,0000,,Pitié !
+Dialogue: 0,0:37:39.84,0:37:40.63,Default,,0000,0000,0000,,Ta gueule.
+Dialogue: 0,0:37:48.09,0:37:51.01,Default,,0000,0000,0000,,Barre-toi, très loin d'ici.
+Dialogue: 0,0:37:51.43,0:37:53.14,Default,,0000,0000,0000,,Ne reviens jamais.
+Dialogue: 0,0:37:53.39,0:37:57.06,Default,,0000,0000,0000,,Si je revois ta tronche\Ndans les parages, je te bute.
+Dialogue: 0,0:38:05.32,0:38:07.28,Default,,0000,0000,0000,,Va te racheter.
+Dialogue: 0,0:38:13.54,0:38:14.83,Default,,0000,0000,0000,,Retrouve-la.
+Dialogue: 0,0:38:26.13,0:38:27.93,Default,,0000,0000,0000,,Je suis un ami de Rick.
+Dialogue: 0,0:38:29.55,0:38:31.14,Default,,0000,0000,0000,,D'Alexandria.
+Dialogue: 0,0:38:49.24,0:38:51.74,Default,,0000,0000,0000,,Il dit\Nque tu peux rejoindre le groupe.
+Dialogue: 0,0:38:53.16,0:38:54.49,Default,,0000,0000,0000,,Si tu veux.
+Dialogue: 0,0:38:56.91,0:38:58.04,Default,,0000,0000,0000,,Pourquoi ?
+Dialogue: 0,0:38:59.50,0:39:01.50,Default,,0000,0000,0000,,Rick essaie de reconstruire.
+Dialogue: 0,0:39:03.09,0:39:05.30,Default,,0000,0000,0000,,Il a besoin du maximum d'aide.
+Dialogue: 0,0:39:06.51,0:39:09.38,Default,,0000,0000,0000,,Il veut montrer\Nque les choses peuvent changer.
+Dialogue: 0,0:39:14.35,0:39:16.02,Default,,0000,0000,0000,,Évite de rester seule.
+Dialogue: 0,0:39:17.39,0:39:18.60,Default,,0000,0000,0000,,Les vivants.
+Dialogue: 0,0:39:20.73,0:39:22.73,Default,,0000,0000,0000,,L'important, c'est les vivants.
+Dialogue: 0,0:39:24.27,0:39:26.98,Default,,0000,0000,0000,,C'est tout ce qui compte\Ndans cette vie.
+Dialogue: 0,0:39:31.16,0:39:32.57,Default,,0000,0000,0000,,Comment tu t'appelles ?
+Dialogue: 0,0:39:36.91,0:39:38.12,Default,,0000,0000,0000,,Morgan Jones.
+Dialogue: 0,0:39:38.66,0:39:39.75,Default,,0000,0000,0000,,Moi, c'est...
+Dialogue: 0,0:39:41.92,0:39:43.46,Default,,0000,0000,0000,,Tu peux m'appeler Ann.
+Dialogue: 0,0:39:45.71,0:39:47.38,Default,,0000,0000,0000,,Je prends mes affaires.
+Dialogue: 0,0:39:47.55,0:39:50.01,Default,,0000,0000,0000,,- On peut y aller.\N- Moi, je reste.
+Dialogue: 0,0:39:51.80,0:39:53.22,Default,,0000,0000,0000,,Je veux être seul.
+Dialogue: 0,0:39:54.97,0:39:56.47,Default,,0000,0000,0000,,J'en ai besoin.
+Dialogue: 0,0:39:57.35,0:39:59.93,Default,,0000,0000,0000,,- Tu as dit...\N- Oui, mais je peux pas.
+Dialogue: 0,0:40:03.48,0:40:04.77,Default,,0000,0000,0000,,Je peux pas.
+Dialogue: 0,0:40:50.86,0:40:52.74,Default,,0000,0000,0000,,{\i1}Lune de miel{\i0}
+Dialogue: 0,0:41:17.30,0:41:18.85,Default,,0000,0000,0000,,C'est toi qui avais raison,
+Dialogue: 0,0:41:19.10,0:41:22.06,Default,,0000,0000,0000,,de sauver les Sauveurs\Nde l'avant-poste satellite.
+Dialogue: 0,0:41:23.93,0:41:25.23,Default,,0000,0000,0000,,De les amener ici.
+Dialogue: 0,0:41:26.27,0:41:28.31,Default,,0000,0000,0000,,Je regrette pas ce que j'ai fait.
+Dialogue: 0,0:41:29.40,0:41:30.90,Default,,0000,0000,0000,,Mais tu avais raison.
+Dialogue: 0,0:41:32.49,0:41:35.53,Default,,0000,0000,0000,,Rick avait raison\Nde pas tuer tous les Sauveurs.
+Dialogue: 0,0:41:37.53,0:41:39.95,Default,,0000,0000,0000,,- Il avait raison ?\N- Oui.
+Dialogue: 0,0:41:41.29,0:41:43.00,Default,,0000,0000,0000,,Mais pas au sujet de Negan.
+Dialogue: 0,0:41:44.87,0:41:46.67,Default,,0000,0000,0000,,Ça veut dire quoi, Maggie ?
+Dialogue: 0,0:41:47.58,0:41:49.42,Default,,0000,0000,0000,,On a du pain sur la planche.
+Dialogue: 0,0:41:51.25,0:41:53.34,Default,,0000,0000,0000,,On doit reconstruire cet endroit.
+Dialogue: 0,0:41:53.67,0:41:55.93,Default,,0000,0000,0000,,Améliorer son fonctionnement.
+Dialogue: 0,0:41:57.05,0:41:59.72,Default,,0000,0000,0000,,Le faire prospérer,\Npour ses habitants.
+Dialogue: 0,0:42:01.68,0:42:03.60,Default,,0000,0000,0000,,On a besoin de se consolider.
+Dialogue: 0,0:42:04.48,0:42:07.14,Default,,0000,0000,0000,,D'être capables de mieux se défendre.
+Dialogue: 0,0:42:07.48,0:42:10.19,Default,,0000,0000,0000,,- Il nous faut ça.\N- On l'aura.
+Dialogue: 0,0:42:11.77,0:42:13.44,Default,,0000,0000,0000,,Mais Rick et Michonne...
+Dialogue: 0,0:42:16.07,0:42:18.41,Default,,0000,0000,0000,,Rick n'aurait pas dû faire ça.
+Dialogue: 0,0:42:20.99,0:42:22.45,Default,,0000,0000,0000,,Michonne non plus.
+Dialogue: 0,0:42:25.20,0:42:27.25,Default,,0000,0000,0000,,Alors on va ronger notre frein,
+Dialogue: 0,0:42:27.87,0:42:29.75,Default,,0000,0000,0000,,attendre le bon moment...
+Dialogue: 0,0:42:33.13,0:42:34.63,Default,,0000,0000,0000,,et on lui montrera.
+Dialogue: 0,0:42:40.47,0:42:41.76,Default,,0000,0000,0000,,Et comment !
+Dialogue: 0,0:42:48.64,0:42:50.23,Default,,0000,0000,0000,,On sait que t'es réveillé.
+Dialogue: 0,0:42:51.94,0:42:54.48,Default,,0000,0000,0000,,- J'ai pas dit le contraire.\N- Tant mieux.
+Dialogue: 0,0:42:55.82,0:42:58.20,Default,,0000,0000,0000,,Parce qu'on a des choses à te dire.
+Dialogue: 0,0:42:59.45,0:43:01.91,Default,,0000,0000,0000,,Tu n'as pas\Nà ouvrir les yeux maintenant.
+Dialogue: 0,0:43:03.28,0:43:05.54,Default,,0000,0000,0000,,Mais tu les ouvriras bientôt.
+Dialogue: 0,0:43:06.29,0:43:10.08,Default,,0000,0000,0000,,Parce qu'on va te forcer\Nà regarder ce qui se passera.
+Dialogue: 0,0:43:11.17,0:43:13.96,Default,,0000,0000,0000,,C'est pas parce que tu as tué.
+Dialogue: 0,0:43:14.96,0:43:16.92,Default,,0000,0000,0000,,Nous aussi, on a tué des gens.
+Dialogue: 0,0:43:17.17,0:43:19.13,Default,,0000,0000,0000,,C'est ce que tu nous as fait.
+Dialogue: 0,0:43:19.63,0:43:22.01,Default,,0000,0000,0000,,Ce que tu as fait à beaucoup de gens.
+Dialogue: 0,0:43:22.68,0:43:26.27,Default,,0000,0000,0000,,La façon dont tu les as utilisés,\Nmis sous ton joug.
+Dialogue: 0,0:43:26.52,0:43:28.23,Default,,0000,0000,0000,,J'ai sauvé des gens !
+Dialogue: 0,0:43:29.52,0:43:30.73,Default,,0000,0000,0000,,Michonne.
+Dialogue: 0,0:43:31.35,0:43:32.94,Default,,0000,0000,0000,,Il faut qu'il sache.
+Dialogue: 0,0:43:35.02,0:43:37.82,Default,,0000,0000,0000,,- C'est pas un débat.\N- On peut rouvrir
+Dialogue: 0,0:43:38.07,0:43:40.32,Default,,0000,0000,0000,,la plaie, pour qu'il voie.
+Dialogue: 0,0:43:43.37,0:43:44.20,Default,,0000,0000,0000,,Carl voyait
+Dialogue: 0,0:43:44.45,0:43:45.87,Default,,0000,0000,0000,,un avenir meilleur.
+Dialogue: 0,0:43:48.62,0:43:51.04,Default,,0000,0000,0000,,Une coopération entre nous tous
+Dialogue: 0,0:43:51.33,0:43:53.33,Default,,0000,0000,0000,,dans un but supérieur.
+Dialogue: 0,0:43:56.05,0:43:57.96,Default,,0000,0000,0000,,Et tu auras un rôle à jouer.
+Dialogue: 0,0:44:00.93,0:44:02.72,Default,,0000,0000,0000,,Tu vas contribuer.
+Dialogue: 0,0:44:03.43,0:44:06.56,Default,,0000,0000,0000,,Tu vas servir d'exemple\Npour la suite.
+Dialogue: 0,0:44:07.22,0:44:08.89,Default,,0000,0000,0000,,On ne te tuera pas.
+Dialogue: 0,0:44:09.89,0:44:11.73,Default,,0000,0000,0000,,On ne te fera pas de mal.
+Dialogue: 0,0:44:13.52,0:44:15.36,Default,,0000,0000,0000,,Tu moisiras dans une cellule.
+Dialogue: 0,0:44:15.52,0:44:17.78,Default,,0000,0000,0000,,Jusqu'à la fin de tes jours.
+Dialogue: 0,0:44:18.78,0:44:20.65,Default,,0000,0000,0000,,Jour après jour.
+Dialogue: 0,0:44:21.82,0:44:23.57,Default,,0000,0000,0000,,Tu seras la preuve vivante
+Dialogue: 0,0:44:23.74,0:44:26.41,Default,,0000,0000,0000,,qu'on bâtit une civilisation.
+Dialogue: 0,0:44:27.20,0:44:29.37,Default,,0000,0000,0000,,Comme ce qu'on avait avant,
+Dialogue: 0,0:44:29.54,0:44:31.08,Default,,0000,0000,0000,,et qu'on va restaurer.
+Dialogue: 0,0:44:31.25,0:44:33.29,Default,,0000,0000,0000,,Et tu en seras le témoin.
+Dialogue: 0,0:44:33.92,0:44:36.21,Default,,0000,0000,0000,,Tu verras\Nà quel point tu t'es trompé.
+Dialogue: 0,0:44:36.71,0:44:39.00,Default,,0000,0000,0000,,Sur ce que chacun peut devenir.
+Dialogue: 0,0:44:39.34,0:44:41.34,Default,,0000,0000,0000,,Sur ce que la vie peut devenir.
+Dialogue: 0,0:44:41.51,0:44:44.80,Default,,0000,0000,0000,,En te gardant en vie,\Non va pouvoir montrer
+Dialogue: 0,0:44:45.05,0:44:47.39,Default,,0000,0000,0000,,que les choses ont changé.
+Dialogue: 0,0:44:48.10,0:44:52.64,Default,,0000,0000,0000,,Que c'est plus constructif\Nde te laisser en vie.
+Dialogue: 0,0:44:54.40,0:44:56.36,Default,,0000,0000,0000,,Ce sera ça, ton rôle.
+Dialogue: 0,0:44:57.52,0:44:59.36,Default,,0000,0000,0000,,Au bout du compte,
+Dialogue: 0,0:45:01.86,0:45:03.99,Default,,0000,0000,0000,,tu seras peut-être bon\Nà quelque chose.
+Dialogue: 0,0:45:43.53,0:45:44.65,Default,,0000,0000,0000,,Merci.
+Dialogue: 0,0:45:50.45,0:45:51.91,Default,,0000,0000,0000,,Je comprends.
+Dialogue: 0,0:45:54.21,0:45:55.66,Default,,0000,0000,0000,,Je sais, maintenant.
+Dialogue: 0,0:45:58.17,0:46:00.00,Default,,0000,0000,0000,,Tu m'as tout donné.
+Dialogue: 0,0:46:03.17,0:46:05.59,Default,,0000,0000,0000,,Après tout ce que Tu m'as donné...
+Dialogue: 0,0:46:13.31,0:46:14.64,Default,,0000,0000,0000,,Je vois clair.
+Dialogue: 0,0:46:21.40,0:46:22.90,Default,,0000,0000,0000,,{\i1}Cher Carl,{\i0}
+Dialogue: 0,0:46:24.86,0:46:26.40,Default,,0000,0000,0000,,{\i1}Je me souviens.{\i0}
+Dialogue: 0,0:46:34.12,0:46:36.16,Default,,0000,0000,0000,,{\i1}J'avais oublié qui j'étais.{\i0}
+Dialogue: 0,0:46:36.91,0:46:39.00,Default,,0000,0000,0000,,{\i1}C'est toi qui me l'as rappelé.{\i0}
+Dialogue: 0,0:46:40.67,0:46:42.80,Default,,0000,0000,0000,,{\i1}Je me rappelle ce que j'ai ressenti,{\i0}
+Dialogue: 0,0:46:43.75,0:46:45.76,Default,,0000,0000,0000,,{\i1}en marchant avec toi, ce jour-là.{\i0}
+Dialogue: 0,0:46:46.72,0:46:50.97,Default,,0000,0000,0000,,{\i1}Je comprenais enfin qui j'étais,\Npour la première fois de ma vie.{\i0}
+Dialogue: 0,0:46:54.60,0:46:57.39,Default,,0000,0000,0000,,{\i1}En fait, on marchait côte à côte,{\i0}
+Dialogue: 0,0:46:57.56,0:46:59.98,Default,,0000,0000,0000,,{\i1}mais tu m'emmenais quelque part.{\i0}
+Dialogue: 0,0:47:00.81,0:47:02.27,Default,,0000,0000,0000,,{\i1}Tu me menais ici.{\i0}
+Dialogue: 0,0:47:02.77,0:47:04.36,Default,,0000,0000,0000,,{\i1}Tu nous menais tous{\i0}
+Dialogue: 0,0:47:04.53,0:47:07.24,Default,,0000,0000,0000,,{\i1}vers le nouveau monde, Carl.{\i0}
+Dialogue: 0,0:47:08.11,0:47:10.70,Default,,0000,0000,0000,,{\i1}Tu m'as montré le nouveau monde.{\i0}
+Dialogue: 0,0:47:11.37,0:47:12.41,Default,,0000,0000,0000,,{\i1}C'est toi{\i0}
+Dialogue: 0,0:47:12.87,0:47:14.45,Default,,0000,0000,0000,,{\i1}qui l'as concrétisé.{\i0}
+Dialogue: 0,0:47:16.20,0:47:17.50,Default,,0000,0000,0000,,{\i1}Je le vois.{\i0}
+Dialogue: 0,0:47:18.54,0:47:19.96,Default,,0000,0000,0000,,{\i1}Je me souviens.{\i0}
+Dialogue: 0,0:47:21.79,0:47:22.84,Default,,0000,0000,0000,,{\i1}Papa.{\i0}
+Dialogue: 0,0:47:32.60,0:47:34.93,Default,,0000,0000,0000,,Adaptation : Anaïs Duchet
+Dialogue: 0,0:47:35.10,0:47:37.47,Default,,0000,0000,0000,,Sous-titrage : VSI - Paris
